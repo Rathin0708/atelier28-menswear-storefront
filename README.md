@@ -2,6 +2,9 @@
 
 Vite + React 19 + TypeScript + Tailwind CSS 4 + Motion + React Router. Frontend only: the catalog is sample data, and the checkout is a labelled demo that processes no payment.
 
+**Live demo:** https://atelier28-menswear-storefront.vercel.app  
+**Repo:** https://github.com/Rathin0708/atelier28-menswear-storefront
+
 ```bash
 npm install
 npm run dev        # http://localhost:5173
